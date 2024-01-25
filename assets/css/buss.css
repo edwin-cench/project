@@ -1,0 +1,67 @@
+table{
+    width: 100%;
+    font-family:"DejaVuSans";
+    border-collapse: collapse;
+}
+td,th {
+    border: 2px solid #0a0000;
+    padding: 10px;
+}
+th{
+    color: gold;
+}
+td{
+    color: #a603f8;
+}
+body{
+    background-image:url("../images/emobilis_logo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h2{
+    color: #f30606;
+}
+h2{
+    text-align: center;
+}
+li{
+    float: left;
+    display: block;
+    overflow: hidden;
+    padding: 20px;
+    margin: 20px;
+    list-style-type: none;
+}
+li a:hover{
+    color: black;
+}
+  ul{
+            list-style-type:none;
+            margin: 0;
+            padding: 0;
+            background-color: #07fa07;
+            overflow: hidden;
+        }
+  ul{
+            list-style-type:none;
+            margin: 0;
+            padding: 0;
+            background-color: #aabbcb;
+            overflow: hidden;
+        }
+        li{
+        float: left;
+        }
+        li a{
+            padding: 20px;
+            display: block;
+            text-decoration: none;
+            color: #1cffda;
+        }
+
+
+li a:hover{
+    background-color: #ffffff;
+}
